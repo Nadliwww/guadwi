@@ -1,4 +1,4 @@
 # cooming soon :D
 ```I need your help to develop this bot```
 
-Contact me [📞](https://wa.me/6285866295942)
+[📞](https://wa.me/6285866295942) Contact me 
