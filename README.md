@@ -1,2 +1,1 @@
-# crewbot
-self-bot
+# cooming soon :D
