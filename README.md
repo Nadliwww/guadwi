@@ -1,0 +1,2 @@
+# crewbot
+self-bot
