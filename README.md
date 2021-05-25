@@ -1,6 +1,6 @@
 # Testing
 </p>
 
-```Masih testing, klo ada bug langsung lapor owner, scnya w encrypt "Sementara"```
+```Masih testing, klo ada bug/error langsung lapor owner, scnya encrypt "Sementara"```
 
 [*✆ contact*](https://wa.me/6285866295942)
