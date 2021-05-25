@@ -10,4 +10,4 @@
 
 ```Masih testing, klo ada bug langsung lapor owner, scnya w encrypt "Sementara"```
 
-[*✆*](https://wa.me/6285866295942) *contact*
+[*✆ contact*](https://wa.me/6285866295942)
