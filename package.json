@@ -1,7 +1,7 @@
 {
-  "name": "xinz-baileys",
+  "name": "dcode-denpa",
   "version": "0.0.1",
-  "description": "Thx To Mhankbarbar",
+  "description": "crewbot",
   "main": "index.js",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "aqulzz",
+  "author": "denpa",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
@@ -46,10 +46,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zennn08/xinz-baileys.git"
+    "url": "git+https://github.com/dcode-denpa/crewbot.git"
   },
   "bugs": {
-    "url": "https://github.com/zennn08/xinz-baileys/issues"
+    "url": "https://github.com/dcode-denpa/crewbot/issues"
   },
-  "homepage": "https://github.com/zennn08/xinz-baileys#readme"
+  "homepage": "https://github.com/dcode-denpa/crewbot#readme"
 }
