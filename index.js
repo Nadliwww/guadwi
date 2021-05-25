@@ -6,7 +6,7 @@ const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 
 require('./denz.js')
 nocache('./denz.js', module => console.log(`'${module}' Updated!`))
-///nocache('./welcome.js', module => console.log(`'${module}' Updated!`))
+nocache('./welcome.js', module => console.log(`'${module}' Updated!`))
 
 async function starts() {
     const denz = new WAConnection()
@@ -26,9 +26,9 @@ async function starts() {
     
     denz.connect();
 	
-	///denz.on('group-participants-update', async (anu) => {
-        ///require('./welcome.js')(denz, anu)
-    ///})
+	denz.on('group-participants-update', async (anu) => {
+        require('./welcome.js')(denz, anu)
+    })
     
 	denz.on('message-new', async (mek) => {
         require('./denz.js')(denz, mek)
