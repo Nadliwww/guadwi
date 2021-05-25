@@ -5,9 +5,9 @@
 <a href="https://github.com/denisputraa">
 </p>
 
-# cooming soon :D
+# Testing
 </p>
 
-```I need your help to develop this bot```
+```Masih testing, klo ada bug langsung lapor owner, scnya w encrypt "Sementara"```
 
-[*✆*](https://wa.me/6285866295942) *contact me*
+[*✆*](https://wa.me/6285866295942) *contact*
