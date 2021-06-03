@@ -3,4 +3,4 @@
 
 ```Masih testing, klo ada bug/error langsung lapor owner, scnya encrypt "Sementara"```
 
-[*✆ contact*](https://wa.me/6285866295942)
+[*✆ contact*](https://chat.whatsapp.com/CBr7YPLQ9sDKsqCH5nvmtb)
