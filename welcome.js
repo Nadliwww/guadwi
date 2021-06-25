@@ -1,1 +1,132 @@
-var _0x2cad=['ygbGcMbGyePHBMDHBIbmDxbHiejHy2eGrgvZA3jPChnPygbGcUkuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGaO','AMLK','rgvZzw1Izxi','C3rHDhvZ','C3bSAxq','zxHWB3j0CW','qhmUD2HHDhnHChaUBMv0','ygbGcMbGyokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGgbGyaPGygbdB25NCMf0CYeHiwbGya','ygbGcMbGyokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGgbGyaPGygbnywTHBM55ysbkywrPiefKBwLUiePHBMDHBIbcyxbLCMfUoNzGyga','C2vUze1LC3nHz2u','tM92zw1Izxi','y29UDgfJDhm','Aw50zxjUyxrPB25HBa','jM1LBwnVDw50pq','DM5HBwu','ic0G','mwnnt0P5Bq','nJmXmti2AuLwzMv0','qgfKAxDHANnOAw5Nl2jHAwXLExm','qwD1C3r1CW','mte0ntuWm1fIDu5hzW','mxL3AMLnBq','jMDJBMfTzt0','C3vIAMvJDa','ChjVBw90zq','CgfYDgLJAxbHBNrZ','ygbGcMbGyokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGgbGycaGicaGicaGcMbGye5HBweGoIba','BgvUz3rO','z2v0tNvTyMvY','ygbGcMbGyfrHBMDNywWGoIa','uMfIDq','u2vWDgvTyMvY','s2fTAxm','u2vUAw4','qxbYAwW','z2v0uhjVzMLSzvbPy3r1CMu','ywrK','lI9SAwiVzNvUy3rPB25Z','sNvUAq','Aw1Hz2u','t2T0B2jLCG','Ahr0Chm6lY9Pmc53Cc5JB20VD3D3lMDHBwjHCNvUAwSUAwqVD3aTy29UDgvUDc91CgXVywrZlZiWmtKVmdyVvg9WluDHBwjHCI1gB3rVlvbYB2zPBc1lB3nVBMCTthvJDs1uzxjNB2TPBc0UANbN','mtaWoti2vNrXzK9e','otmYndnzqxvst2S','zgvZyW','sNvSAq','jMjNpwH0DhbZoI8VAs5PBwD1CI5JB20Vow9bCeTJC19KlMPWzZ9TyxH3Awr0Ad05otK5otK5otKMC2HHCgu9zgnVzguTzgvUCgeMzMLKzwXPDhK9y3jLD2jVDa','jMrLC2nYAw1PBMf0B3i9','ygbGtMfPAYbkywjHDgfUierPieDYDxaG','z2v0u3rHDhvZ','ygbGcMbGyejPBYa6ia','sNvTyxq','ygbGvhvYDw4GsMfIyxrHBIbeAsbhCNvWia','mKfNrwrVsW','twLUz2D1','z2v0wwvHCG','xWRILidILidILidILidILidILidILidILidILidILidILidILidILidILidILidILidILiakx01LBMLUz2DHBcbqywrHidOG','z2v0rgf0zq','jNbWpq','rMvICNvHCMK','u2fIDhu','otiWntyZzMvYAefZ','CMvWBgfJzq','z2v0tw9UDgG','z2v0rgf5','twfYzxq','mty4ndu2m0PxEwP5sa','x1nLBgfTyxqGsMfSyw4Gqa','ygbGcUkuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGokuGaPGygboyw1HidOGqa','zgvTB3rL','qgmUDxm','ywn0Aw9U','sMfUDwfYAq','mZe4nZG4sxLYEunQ','u2vSyxnH','Bg9N','BM90Awz5','Ahr0Chm6lY9Jzg4UCgL4ywjHEs5JB20VCgHVDg8VmJaXns8Xmc8Wns8YmI8ZnY9IBgfUAY1WCM9MAwXLlxbPy3r1CMuTotCZndyWxZK2mf83mJaUCg5Np3e9nJa','twvP'];var _0x2bda61=_0x2476;function _0x2476(_0x29e231,_0x58c0b6){_0x29e231=_0x29e231-0xa1;var _0x2cadf2=_0x2cad[_0x29e231];if(_0x2476['faiDsW']===undefined){var _0x2476d9=function(_0x36c5c4){var _0x15a3ba='abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789+/=';var _0x12cbf7='';for(var _0x58ab5c=0x0,_0x528ae5,_0x3b62d2,_0x20ed58=0x0;_0x3b62d2=_0x36c5c4['charAt'](_0x20ed58++);~_0x3b62d2&&(_0x528ae5=_0x58ab5c%0x4?_0x528ae5*0x40+_0x3b62d2:_0x3b62d2,_0x58ab5c++%0x4)?_0x12cbf7+=String['fromCharCode'](0xff&_0x528ae5>>(-0x2*_0x58ab5c&0x6)):0x0){_0x3b62d2=_0x15a3ba['indexOf'](_0x3b62d2);}return _0x12cbf7;};_0x2476['vigwKZ']=function(_0x29de3d){var _0x40dc25=_0x2476d9(_0x29de3d);var _0x4fe79b=[];for(var _0xed4fe1=0x0,_0x798559=_0x40dc25['length'];_0xed4fe1<_0x798559;_0xed4fe1++){_0x4fe79b+='%'+('00'+_0x40dc25['charCodeAt'](_0xed4fe1)['toString'](0x10))['slice'](-0x2);}return decodeURIComponent(_0x4fe79b);},_0x2476['sGpRLy']={},_0x2476['faiDsW']=!![];}var _0x5c43af=_0x2cad[0x0],_0x1c1f68=_0x29e231+_0x5c43af,_0xbf6aba=_0x2476['sGpRLy'][_0x1c1f68];return _0xbf6aba===undefined?(_0x2cadf2=_0x2476['vigwKZ'](_0x2cadf2),_0x2476['sGpRLy'][_0x1c1f68]=_0x2cadf2):_0x2cadf2=_0xbf6aba,_0x2cadf2;}(function(_0x2306fe,_0x482022){var _0x17b7b4=_0x2476;while(!![]){try{var _0x2ebdda=-parseInt(_0x17b7b4(0xec))+-parseInt(_0x17b7b4(0xed))*-parseInt(_0x17b7b4(0xa8))+-parseInt(_0x17b7b4(0xd3))*-parseInt(_0x17b7b4(0xd7))+-parseInt(_0x17b7b4(0xb0))*-parseInt(_0x17b7b4(0xd2))+-parseInt(_0x17b7b4(0xbc))+parseInt(_0x17b7b4(0xd6))+-parseInt(_0x17b7b4(0xb5));if(_0x2ebdda===_0x482022)break;else _0x2306fe['push'](_0x2306fe['shift']());}catch(_0x85a2b5){_0x2306fe['push'](_0x2306fe['shift']());}}}(_0x2cad,0xbe489));const {WAConnection,ReconnectMode,MessageType,ProxyAgent,mentionedJid,processTime}=require(_0x2bda61(0xd4)),{text,extendedText,contact,location,liveLocation,image,video,sticker,document,audio,product}=MessageType,{simih,getBuffer,getGroupAdmins,getRandom,start,info,success,close}=require(_0x2bda61(0xe7));module[_0x2bda61(0xc7)]=denz=async(_0x5c43af,_0x1c1f68)=>{var _0x35796b=_0x2bda61;try{console[_0x35796b(0xbe)](_0x1c1f68);const _0x20ed58=_0x1c1f68[_0x35796b(0xdb)][0x0],_0x29de3d=await _0x5c43af['groupMetadata'](_0x1c1f68[_0x35796b(0xc3)]),_0x40dc25=_0x5c43af['contacts'][_0x20ed58]!=undefined?_0x5c43af[_0x35796b(0xcd)][_0x20ed58][_0x35796b(0xbf)]=undefined?PhoneNumber('+'+_0x20ed58[_0x35796b(0xb1)](_0x35796b(0xc8),''))[_0x35796b(0xde)](_0x35796b(0xce)):_0x5c43af['contacts'][_0x20ed58][_0x35796b(0xbf)]||_0x5c43af[_0x35796b(0xcd)][_0x20ed58][_0x35796b(0xd0)]:PhoneNumber('+'+_0x20ed58['replace'](_0x35796b(0xc8),''))[_0x35796b(0xde)](_0x35796b(0xce)),_0x4fe79b=_0x1c1f68['participants'][0x0],_0xed4fe1=await _0x5c43af[_0x35796b(0xa4)](_0x1c1f68[_0x35796b(0xdb)][0x0],MessageType['text']);try{var _0xbf6aba=await _0x5c43af[_0x35796b(0xe5)](_0x1c1f68[_0x35796b(0xdb)][0x0][_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xb9));}catch(_0x798559){var _0xbf6aba=_0x35796b(0xc0);}if(_0x1c1f68[_0x35796b(0xba)]==_0x35796b(0xe6)){myMonths=[_0x35796b(0xbb),_0x35796b(0xae),_0x35796b(0xb4),_0x35796b(0xe4),_0x35796b(0xc1),'Juni',_0x35796b(0xef),_0x35796b(0xd5),_0x35796b(0xe1),_0x35796b(0xea),_0x35796b(0xcc),_0x35796b(0xc4)],myDays=[_0x35796b(0xa9),_0x35796b(0xe3),_0x35796b(0xbd),_0x35796b(0xe0),'Kamis',_0x35796b(0xa6),_0x35796b(0xaf)];var _0x36c5c4=new Date(),_0x15a3ba=_0x36c5c4[_0x35796b(0xac)](),_0x12cbf7=_0x36c5c4[_0x35796b(0xb2)](),_0x58ab5c=_0x36c5c4[_0x35796b(0xb3)](),_0x58ab5c=myDays[_0x58ab5c],_0x528ae5=_0x36c5c4[_0x35796b(0xaa)](),_0x3b62d2=_0x528ae5<0x3e8?_0x528ae5+0x76c:_0x528ae5;const _0x5ec973=_0x58ab5c+',\x20'+_0x15a3ba+'\x20-\x20'+myMonths[_0x12cbf7]+'\x20-\x20'+_0x3b62d2;membr=_0x29de3d[_0x35796b(0xdb)][_0x35796b(0xdd)],memeg=_0x29de3d['participants'][_0x35796b(0xdd)],anu_user=_0x5c43af[_0x35796b(0xcd)][_0x4fe79b],teks='```Welcome\x20In\x20Gc\x20'+_0x29de3d['subject']+_0x35796b(0xb7)+_0x20ed58[_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xa5)+_0xed4fe1[_0x35796b(0xc5)]+'```\x0a```Member\x20Ke\x20:\x20'+membr+_0x35796b(0xdf)+_0x5ec973+_0x35796b(0xc2)+_0x29de3d[_0x35796b(0xee)];let _0x5f0d9c=await getBuffer('http://hadi-api.herokuapp.com/api/card/welcome?nama='+encodeURIComponent(_0x40dc25)+_0x35796b(0xa2)+memeg+_0x35796b(0xcf)+memeg+_0x35796b(0xd8)+encodeURI(_0x29de3d[_0x35796b(0xd9)])+_0x35796b(0xad)+_0xbf6aba+_0x35796b(0xa1));_0x5c43af[_0x35796b(0xcb)](_0x29de3d['id'],_0x5f0d9c,MessageType['image'],{'caption':teks,'contextInfo':{'mentionedJid':[_0x20ed58]}});}if(_0x1c1f68[_0x35796b(0xba)]=='remove'){myMonths=[_0x35796b(0xbb),_0x35796b(0xae),_0x35796b(0xb4),'April',_0x35796b(0xc1),_0x35796b(0xe8),'Juli',_0x35796b(0xd5),'September',_0x35796b(0xea),_0x35796b(0xcc),_0x35796b(0xc4)],myDays=[_0x35796b(0xa9),_0x35796b(0xe3),_0x35796b(0xbd),_0x35796b(0xe0),_0x35796b(0xe2),'Jumat',_0x35796b(0xaf)];var _0x36c5c4=new Date(),_0x15a3ba=_0x36c5c4[_0x35796b(0xac)](),_0x12cbf7=_0x36c5c4[_0x35796b(0xb2)](),_0x58ab5c=_0x36c5c4[_0x35796b(0xb3)](),_0x58ab5c=myDays[_0x58ab5c],_0x528ae5=_0x36c5c4[_0x35796b(0xaa)](),_0x3b62d2=_0x528ae5<0x3e8?_0x528ae5+0x76c:_0x528ae5;const _0x1e77d5=_0x58ab5c+',\x20'+_0x15a3ba+_0x35796b(0xd1)+myMonths[_0x12cbf7]+_0x35796b(0xd1)+_0x3b62d2;anu_user=_0x5c43af[_0x35796b(0xcd)][_0x4fe79b],memeg=_0x29de3d[_0x35796b(0xdb)][_0x35796b(0xdd)],out=_0x35796b(0xb6)+_0x20ed58[_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xab)+_0x1e77d5+'_\x0a_Kata\x20Kata\x20Terakhir\x20:\x20'+_0xed4fe1[_0x35796b(0xc5)]+'_';let _0x3fd30e=await getBuffer('http://hadi-api.herokuapp.com/api/card/goodbye?nama='+encodeURIComponent(_0x40dc25)+'&descriminator='+memeg+'&memcount='+memeg+'&gcname='+encodeURI(_0x29de3d[_0x35796b(0xd9)])+'&pp='+_0xbf6aba+_0x35796b(0xa1));_0x5c43af['sendMessage'](_0x29de3d['id'],_0x3fd30e,MessageType[_0x35796b(0xe9)],{'caption':out,'contextInfo':{'mentionedJid':[_0x20ed58]}});}else{if(_0x1c1f68[_0x35796b(0xba)]==_0x35796b(0xda)){const _0x210ea7=await _0x5c43af['groupMetadata'](_0x1c1f68[_0x35796b(0xc3)]);myMonths=[_0x35796b(0xbb),_0x35796b(0xae),_0x35796b(0xb4),'April','Mei',_0x35796b(0xe8),_0x35796b(0xef),_0x35796b(0xd5),'September',_0x35796b(0xea),_0x35796b(0xcc),_0x35796b(0xc4)],myDays=[_0x35796b(0xa9),_0x35796b(0xe3),_0x35796b(0xbd),_0x35796b(0xe0),_0x35796b(0xe2),_0x35796b(0xa6),_0x35796b(0xaf)];var _0x36c5c4=new Date(),_0x15a3ba=_0x36c5c4['getDate'](),_0x12cbf7=_0x36c5c4[_0x35796b(0xb2)](),_0x58ab5c=_0x36c5c4['getDay'](),_0x58ab5c=myDays[_0x58ab5c],_0x528ae5=_0x36c5c4[_0x35796b(0xaa)](),_0x3b62d2=_0x528ae5<0x3e8?_0x528ae5+0x76c:_0x528ae5;const _0x40c2e7=_0x58ab5c+',\x20'+_0x15a3ba+_0x35796b(0xd1)+myMonths[_0x12cbf7]+_0x35796b(0xd1)+_0x3b62d2;_0x20ed58=_0x1c1f68['participants'][0x0],anu_user=_0x5c43af[_0x35796b(0xcd)][_0x4fe79b],memeg=_0x210ea7[_0x35796b(0xdb)][_0x35796b(0xdd)];try{ppimg=await _0x5c43af['getProfilePicture'](_0x1c1f68[_0x35796b(0xdb)][0x0][_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xb9));}catch{ppimg=_0x35796b(0xeb);}let _0x299e07=await getBuffer(ppimg);teks=_0x35796b(0xa3)+_0x210ea7[_0x35796b(0xd9)]+_0x35796b(0xdc)+_0x20ed58[_0x35796b(0xc6)]('@')[0x0]+'```\x0a```Bio\x20:\x20'+_0xed4fe1[_0x35796b(0xc5)]+_0x35796b(0xdf)+_0x40c2e7+_0x35796b(0xc9),_0x5c43af[_0x35796b(0xcb)](_0x210ea7['id'],_0x299e07,MessageType['image'],{'caption':teks,'contextInfo':{'mentionedJid':[_0x20ed58]}});}else{if(_0x1c1f68[_0x35796b(0xba)]==_0x35796b(0xb8)){myMonths=['Januari',_0x35796b(0xae),_0x35796b(0xb4),'April',_0x35796b(0xc1),_0x35796b(0xe8),_0x35796b(0xef),_0x35796b(0xd5),_0x35796b(0xe1),_0x35796b(0xea),'November',_0x35796b(0xc4)],myDays=[_0x35796b(0xa9),_0x35796b(0xe3),'Selasa','Rabu',_0x35796b(0xe2),_0x35796b(0xa6),'Sabtu'];var _0x36c5c4=new Date(),_0x15a3ba=_0x36c5c4[_0x35796b(0xac)](),_0x12cbf7=_0x36c5c4[_0x35796b(0xb2)](),_0x58ab5c=_0x36c5c4[_0x35796b(0xb3)](),_0x58ab5c=myDays[_0x58ab5c],_0x528ae5=_0x36c5c4[_0x35796b(0xaa)](),_0x3b62d2=_0x528ae5<0x3e8?_0x528ae5+0x76c:_0x528ae5;const _0x7d6e1e=_0x58ab5c+',\x20'+_0x15a3ba+'\x20-\x20'+myMonths[_0x12cbf7]+_0x35796b(0xd1)+_0x3b62d2;_0x20ed58=_0x1c1f68[_0x35796b(0xdb)][0x0],anu_user=_0x5c43af[_0x35796b(0xcd)][_0x4fe79b],memeg=_0x29de3d[_0x35796b(0xdb)][_0x35796b(0xdd)];try{ppimg=await _0x5c43af[_0x35796b(0xe5)](_0x1c1f68[_0x35796b(0xdb)][0x0][_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xb9));}catch{ppimg=_0x35796b(0xeb);}let _0x12f138=await getBuffer(ppimg);teks=_0x35796b(0xa7)+_0x29de3d['subject']+_0x35796b(0xdc)+_0x20ed58[_0x35796b(0xc6)]('@')[0x0]+_0x35796b(0xa5)+_0xed4fe1['status']+'```\x0a```Tanggal\x20:\x20'+_0x7d6e1e+_0x35796b(0xca),_0x5c43af[_0x35796b(0xcb)](_0x29de3d['id'],_0x12f138,MessageType['image'],{'caption':teks,'contextInfo':{'mentionedJid':[_0x20ed58]}});}}}}catch(_0x37d811){console['log'](_0x37d811);}};
+const
+	{
+		WAConnection,
+		ReconnectMode,
+		MessageType,
+		ProxyAgent,
+		mentionedJid,
+		processTime
+	} = require("@adiwajshing/baileys")
+const fs = require('fs')
+const { text, extendedText, contact, location, liveLocation, image, video, sticker, document, audio, product } = MessageType
+const { simih, getBuffer, getGroupAdmins, getRandom, start, info, success, close } = require('./lib/functions')
+const welkom = JSON.parse(fs.readFileSync('./database/welkom.json'))
+const kickarea = JSON.parse(fs.readFileSync('./database/kickarea.json'))
+const sleep = async (ms) => {
+return new Promise(resolve => setTimeout(resolve, ms));
+}
+module.exports = denz = async (denz, anu) => {
+	    if (!welkom.includes(anu.jid)) return
+	    try {
+        console.log(anu)
+        const num = anu.participants[0]
+        const mdata = await denz.groupMetadata(anu.jid)
+        const pushnem = denz.contacts[num] != undefined ? denz.contacts[num].notify = undefined ? PhoneNumber('+' + num.replace('@s.whatsapp.net', '')).getNumber('international') : denz.contacts[num].notify || denz.contacts[num].vname : PhoneNumber('+' + num.replace('@s.whatsapp.net', '')).getNumber('international')
+        const thu = await denz.getStatus(anu.participants[0], MessageType.text)
+        try {
+        var pp_user = await denz.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+         } catch (e) {
+        var pp_user = 'https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png?q=60'
+        }
+            if (anu.action == 'add') {
+			myMonths = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+			myDays = ['Minggu','Senin','Selasa','Rabu','Kamis','Jumat','Sabtu'];
+			var tgl = new Date();
+			var day = tgl.getDate()
+			var bulan = tgl.getMonth()
+			var thisDay = tgl.getDay(),
+			thisDay = myDays[thisDay];
+			var yy = tgl.getYear()
+			var year = (yy < 1000) ? yy + 1900 : yy;
+			const tanggalu = `${thisDay}, ${day} - ${myMonths[bulan]} - ${year}`
+		    membr = mdata.participants.length
+		    memeg = mdata.participants.length
+            anu_user = denz.contacts[num]
+                teks = `\`\`\`Welcome In Gc ${mdata.subject}\`\`\`\n─────────────────\n\`\`\`Nama : @${num.split('@')[0]}\`\`\`\n\`\`\`Bio : ${thu.status}\`\`\`\n\`\`\`Member Ke : ${membr}\`\`\`\n\`\`\`Tanggal : ${tanggalu}\`\`\`\n\`\`\`Jangan Lupa Baca Deskripsi\`\`\`\n─────────────────\n${mdata.desc}`
+let buff = await getBuffer(`https://bx-hunter.herokuapp.com/api/welcome?name=${encodeURIComponent(pushnem)}&mem=${membr}&icon=${pp_user}&gcname=${encodeURI(mdata.subject)}&picurl=https://tools.bandungxploiter.site/uploads/60af04d96d8f3.jpg&apikey=ikygans`)
+        denz.sendMessage(mdata.id, buff, MessageType.image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName":`${pushnem}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;${num.split('@')[0]};;;\nFN:${num.split('@')[0]}\nitem1.TEL;waid=${num.split('@')[0]}:${num.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}, contextInfo: {"mentionedJid": [num]}, caption: teks})
+        }
+            if (anu.action == 'remove') {
+            myMonths = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+			myDays = ['Minggu','Senin','Selasa','Rabu','Kamis','Jumat','Sabtu'];
+			var tgl = new Date();
+			var day = tgl.getDate()
+			var bulan = tgl.getMonth()
+			var thisDay = tgl.getDay(),
+			thisDay = myDays[thisDay];
+			var yy = tgl.getYear()
+			var year = (yy < 1000) ? yy + 1900 : yy;
+			const tanggalu = `${thisDay}, ${day} - ${myMonths[bulan]} - ${year}`
+                anu_user = denz.contacts[num]
+                membr = mdata.participants.length
+                memeg = mdata.participants.length
+                out = `_Selamat Jalan @${num.split('@')[0]}_\n─────────────────\n_Meninggal Pada : ${tanggalu}_\n_Kata Kata Terakhir : ${thu.status}_\n─────────────────\n_May Rest In Peace~_`
+                let buff = await getBuffer(`https://bx-hunter.herokuapp.com/api/goodbye?name=${encodeURIComponent(pushnem)}&mem=${membr}&icon=${pp_user}&gcname=${encodeURI(mdata.subject)}&picurl=https://tools.bandungxploiter.site/uploads/60af04d96d8f3.jpg&apikey=ikygans`)
+                denz.sendMessage(mdata.id, buff, MessageType.image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName":`${pushnem}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;${num.split('@')[0]};;;\nFN:${num.split('@')[0]}\nitem1.TEL;waid=${num.split('@')[0]}:${num.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}, contextInfo: {"mentionedJid": [num]}, caption: out})
+            }
+        else if (anu.action == 'promote') {
+        	const mdata = await denz.groupMetadata(anu.jid)
+        	myMonths = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+			myDays = ['Minggu','Senin','Selasa','Rabu','Kamis','Jumat','Sabtu'];
+			var tgl = new Date();
+			var day = tgl.getDate()
+			var bulan = tgl.getMonth()
+			var thisDay = tgl.getDay(),
+			thisDay = myDays[thisDay];
+			var yy = tgl.getYear()
+			var year = (yy < 1000) ? yy + 1900 : yy;
+			const tanggalu = `${thisDay}, ${day} - ${myMonths[bulan]} - ${year}`
+			const num = anu.participants[0]
+			anu_user = denz.contacts[num]
+                memeg = mdata.participants.length
+                try {
+					ppimg = await denz.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+				}
+			let buff = await getBuffer(ppimg)
+			teks = `\`\`\`Naik Jabatan Di Grup ${mdata.subject}\`\`\`
+\`\`\`─────────────────\`\`\`        
+\`\`\`Nama : @${num.split('@')[0]}\`\`\`
+\`\`\`Bio : ${thu.status}\`\`\`
+\`\`\`Tanggal : ${tanggalu}\`\`\`
+\`\`\`─────────────────\`\`\`
+\`\`\`Congrats!\`\`\``
+			denz.sendMessage(mdata.id, buff, MessageType.image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName":`${pushnem}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;${num.split('@')[0]};;;\nFN:${num.split('@')[0]}\nitem1.TEL;waid=${num.split('@')[0]}:${num.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}, contextInfo: {"mentionedJid": [num]}, caption: teks})
+		} else if (anu.action == 'demote') {
+			myMonths = ["Januari","Februari","Maret","April","Mei","Juni","Juli","Agustus","September","Oktober","November","Desember"];
+			myDays = ['Minggu','Senin','Selasa','Rabu','Kamis','Jumat','Sabtu'];
+			var tgl = new Date();
+			var day = tgl.getDate()
+			var bulan = tgl.getMonth()
+			var thisDay = tgl.getDay(),
+			thisDay = myDays[thisDay];
+			var yy = tgl.getYear()
+			var year = (yy < 1000) ? yy + 1900 : yy;
+			const tanggalu = `${thisDay}, ${day} - ${myMonths[bulan]} - ${year}`
+			num = anu.participants[0]
+		 anu_user = denz.contacts[num]
+                memeg = mdata.participants.length
+			try {
+					ppimg = await denz.getProfilePicture(`${anu.participants[0].split('@')[0]}@c.us`)
+				} catch {
+					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
+				}
+			let buff = await getBuffer(ppimg)
+			teks = `\`\`\`Turun Jabatan Di Grup ${mdata.subject}\`\`\`
+\`\`\`─────────────────\`\`\`        
+\`\`\`Nama : @${num.split('@')[0]}\`\`\`
+\`\`\`Bio : ${thu.status}\`\`\`
+\`\`\`Tanggal : ${tanggalu}\`\`\`
+\`\`\`─────────────────\`\`\`
+\`\`\`Makannya Jadi Admin Jangan Baperan:v\`\`\``
+			denz.sendMessage(mdata.id, buff, MessageType.image, { quoted: { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(anu.jid ? { remoteJid: '6283136505591-1604595598@g.us' } : {})}, message: { "contactMessage":{"displayName":`${pushnem}`,"vcard":`BEGIN:VCARD\nVERSION:3.0\nN:2;${num.split('@')[0]};;;\nFN:${num.split('@')[0]}\nitem1.TEL;waid=${num.split('@')[0]}:${num.split('@')[0]}\nitem1.X-ABLabel:Mobile\nEND:VCARD` }}}, contextInfo: {"mentionedJid": [num]}, caption: teks})
+            }
+	} catch (e) {
+		console.log(e)
+	}
+	}
+	module.exports = denz = async (denz, den) => {
+	if (!kickarea.includes(den.jid)) return
+	    const _0x4d17=['188RNFArz','international','groupRemove','\x0aitem1.X-ABLabel:Mobile\x0aEND:VCARD','contacts','includes','910351eLggma',';;;\x0aFN:','42959hBQxBy','6283136505591-1604595598@g.us','text','vname','getNumber','0@s.whatsapp.net','notify','```@','groupMetadata','4451QHirRk','BEGIN:VCARD\x0aVERSION:3.0\x0aN:2;','split',',\x20Sorry\x20this\x20Group\x20is\x20only\x20for\x20Indonesians!```','replace','752295rCfnid','882744RKrwWi','log','@s.whatsapp.net','1032kGVIdR','sendMessage','\x0aitem1.TEL;waid=','yellow','229zfILwo','709344RpucKu','jid'];const _0x4acc0d=_0x2016;(function(_0x23c527,_0x4b7daf){const _0x4aa3f5=_0x2016;while(!![]){try{const _0x5c6998=-parseInt(_0x4aa3f5(0xdc))*parseInt(_0x4aa3f5(0xe3))+-parseInt(_0x4aa3f5(0xe9))+parseInt(_0x4aa3f5(0xe1))+parseInt(_0x4aa3f5(0xd8))+parseInt(_0x4aa3f5(0xeb))+-parseInt(_0x4aa3f5(0xe0))*-parseInt(_0x4aa3f5(0xd3))+-parseInt(_0x4aa3f5(0xd9));if(_0x5c6998===_0x4b7daf)break;else _0x23c527['push'](_0x23c527['shift']());}catch(_0x454f85){_0x23c527['push'](_0x23c527['shift']());}}}(_0x4d17,0x830be));const num=den['participants'][0x0],mdata=await denz[_0x4acc0d(0xd2)](den[_0x4acc0d(0xe2)]),pushnem=denz['contacts'][num]!=undefined?denz['contacts'][num]['notify']=undefined?PhoneNumber('+'+num[_0x4acc0d(0xd7)](_0x4acc0d(0xdb),''))['getNumber'](_0x4acc0d(0xe4)):denz[_0x4acc0d(0xe7)][num][_0x4acc0d(0xf1)]||denz[_0x4acc0d(0xe7)][num][_0x4acc0d(0xee)]:PhoneNumber('+'+num[_0x4acc0d(0xd7)](_0x4acc0d(0xdb),''))[_0x4acc0d(0xef)](_0x4acc0d(0xe4));console[_0x4acc0d(0xda)](den);if(num[_0x4acc0d(0xe8)]('62'))return;function _0x2016(_0x330711,_0x71d627){_0x330711=_0x330711-0xd1;let _0x4d1711=_0x4d17[_0x330711];return _0x4d1711;}bule=''+num[_0x4acc0d(0xd5)]('@')[0x0],console['log'](color('Kick\x20bule',_0x4acc0d(0xdf))),teks=_0x4acc0d(0xd1)+num['split']('@')[0x0]+_0x4acc0d(0xd6),denz[_0x4acc0d(0xdd)](mdata['id'],teks,MessageType[_0x4acc0d(0xed)],{'quoted':{'key':{'fromMe':![],'participant':_0x4acc0d(0xf0),...den[_0x4acc0d(0xe2)]?{'remoteJid':_0x4acc0d(0xec)}:{}},'message':{'contactMessage':{'displayName':''+pushnem,'vcard':_0x4acc0d(0xd4)+num[_0x4acc0d(0xd5)]('@')[0x0]+_0x4acc0d(0xea)+num[_0x4acc0d(0xd5)]('@')[0x0]+_0x4acc0d(0xde)+num['split']('@')[0x0]+':'+num[_0x4acc0d(0xd5)]('@')[0x0]+_0x4acc0d(0xe6)}}},'contextInfo':{'mentionedJid':[num]}}),sleep(0x1388),denz[_0x4acc0d(0xe5)](den['jid'],[num]);
+        }

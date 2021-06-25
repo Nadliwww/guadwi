@@ -3,6 +3,7 @@ const qrcode = require("qrcode-terminal")
 const moment = require("moment-timezone")
 const fs = require("fs")
 const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
+const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRandom, banner, start, info, success, close } = require('./lib/functions')
 
 require('./denz.js')
 nocache('./denz.js', module => console.log(`'${module}' Updated!`))
@@ -10,9 +11,10 @@ nocache('./welcome.js', module => console.log(`'${module}' Updated!`))
 
 async function starts() {
     const denz = new WAConnection()
+    denz.version = [2, 2119, 6]
     denz.on('qr', qr => {
         qrcode.generate(qr, { small: true })
-        console.log(`[ ${time} ] Scan Pack`)
+        console.log(`[ ${time} ] Scan this qr code`)
     })
 
     denz.on('credentials-updated', () => {
@@ -28,6 +30,10 @@ async function starts() {
 	
 	denz.on('group-participants-update', async (anu) => {
         require('./welcome.js')(denz, anu)
+    })
+    
+	denz.on('group-participants-update', async (den) => {
+        require('./welcome.js')(denz, den)
     })
     
 	denz.on('message-new', async (mek) => {
